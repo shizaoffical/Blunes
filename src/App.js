@@ -8,6 +8,7 @@ import '../src/css/OwlCarouselMin.css';
 import '../src/css/Style.css';
 function App() {
   return (
+    // This is the final code
     <div className="App">
     <BrowserRouter>
     <ScrollToTop/>
